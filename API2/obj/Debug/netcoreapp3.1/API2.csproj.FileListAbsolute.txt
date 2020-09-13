@@ -61,3 +61,5 @@ C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\Core.dll
 C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\Infrastructure.dll
 C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\Core.pdb
+C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\users\hjohnsick\Demo\skinet2\API2\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
